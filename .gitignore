@@ -1,0 +1,15 @@
+**/data/ant_dir
+**/data/cheetah_dir
+**/data/cheetah_vel
+**/data/ML1-pick-place-v2
+**/wandb/
+**/log/
+**__
+**egg-info
+**/experiment_logs/
+**/ttdt_save_path
+*.mp4
+**/checkpoint/ant/gpt2.ckpt
+**/checkpoint/ant/none.ckpt
+*.pkl
+**/videos

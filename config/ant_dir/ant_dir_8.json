@@ -1,0 +1,6 @@
+{
+    "env": "ant_dir",
+    "total_tasks": 8,
+    "train_tasks": [49,35,17,7,16,4,11,43],
+    "test_tasks": [49,17]
+}
